@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eunoia Marketing Solutions</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #0f3d57;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 2rem;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #0f3d57;
+    }
+    .cta {
+      margin-top: 2rem;
+      text-align: center;
+    }
+    .cta a {
+      display: inline-block;
+      background: #0f3d57;
+      color: white;
+      padding: 1rem 2rem;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    footer {
+      background-color: #0f3d57;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Eunoia Marketing Solutions</h1>
+    <p>Smart, Custom Marketing for Your Brand's Success</p>
+  </header>
+
+  <section>
+    <h2>Tailored Digital Strategies</h2>
+    <p>We provide fully customized digital marketing solutions designed to fit your business needs. Whether you're a startup or an established brand, our campaigns are engineered to deliver results.</p>
+
+    <h2>Boost Your Online Presence</h2>
+    <p>With Eunoia, gain visibility, drive targeted traffic, and increase conversions using a strategic mix of SEO, social media, PPC, and content marketing.</p>
+
+    <h2>Data-Driven, Human-Focused</h2>
+    <p>We combine data analytics with creative storytelling to build authentic brand experiences that connect with your audience and inspire action.</p>
+
+    <div class="cta">
+      <a href="#">Schedule a Free Strategy Session</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Eunoia Marketing Solutions | 123 Innovation Drive, Lahore, Pakistan</p>
+  </footer>
+</body>
+</html>
